@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Gallery Name - Photography & Art</title>
+    <title>Shamsur Doha Gallery  Name - Photography & Art</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Font: Inter -->
@@ -60,7 +60,7 @@
     <!-- Header/Navigation -->
     <header class="bg-white shadow-sm py-4">
         <nav class="container mx-auto px-4 flex justify-between items-center">
-            <a href="#" class="text-2xl font-bold text-gray-800 rounded-md p-2 hover:bg-gray-100 transition duration-300">Your Gallery</a>
+            <a href="#" class="text-2xl font-bold text-gray-800 rounded-md p-2 hover:bg-gray-100 transition duration-300">Shamsur Doha Gallery </a>
             <div class="hidden md:flex space-x-6">
                 <a href="#gallery" class="text-gray-600 hover:text-gray-900 font-medium transition duration-300 rounded-md p-2 hover:bg-gray-100">Gallery</a>
                 <a href="#about" class="text-gray-600 hover:text-gray-900 font-medium transition duration-300 rounded-md p-2 hover:bg-gray-100">About</a>
@@ -161,7 +161,7 @@
             <div class="md:w-1/2 text-center md:text-left">
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">About Our Gallery</h2>
                 <p class="text-gray-700 leading-relaxed mb-4">
-                    [Your Gallery Name] is dedicated to showcasing compelling visual narratives through photography and art. We believe in the power of imagery to evoke emotion, inspire thought, and connect people across cultures. Our collection features works from emerging talents and established artists.
+                    [Shamsur Doha Gallery  Name] is dedicated to showcasing compelling visual narratives through photography and art. We believe in the power of imagery to evoke emotion, inspire thought, and connect people across cultures. Our collection features works from emerging talents and established artists.
                 </p>
                 <p class="text-gray-700 leading-relaxed">
                     Founded in [Year], our mission is to make art accessible and to foster a deeper appreciation for visual storytelling. We regularly update our gallery with new pieces, inviting you to explore and find something that resonates with you.
@@ -209,7 +209,7 @@
     <!-- Footer -->
     <footer class="bg-gray-900 text-white py-8 rounded-t-xl shadow-inner">
         <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2025 Your Gallery Name. All rights reserved.</p>
+            <p>&copy; 2025 Shamsur Doha Gallery  Name. All rights reserved.</p>
             <div class="flex justify-center space-x-6 mt-4">
                 <a href="#" class="text-gray-400 hover:text-white transition duration-300">Privacy Policy</a>
                 <a href="#" class="text-gray-400 hover:text-white transition duration-300">Terms of Service</a>
